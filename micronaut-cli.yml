@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: awscimvn
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, aws-codebuild-workflow-ci, http-client, jackson-databind, java, java-application, junit, logback, maven, netty-server, readme, shade, yaml]
